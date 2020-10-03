@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /
+Disallow: /anime-wallpapers/
+Disallow: /js/
+Disallow: /payloads/
+Disallow: /ctf-flag/
